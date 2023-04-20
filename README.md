@@ -1,4 +1,4 @@
-# jap02-khtran1
+# jpa02-khtran1
 
 Repo: https://github.com/ucsb-cs156-s23/jpa02-khtran1
 
